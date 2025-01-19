@@ -12,7 +12,7 @@
 
 [Конфигурационный файл](haproxy1.cfg)
 
-https://github.com/semioshkoan/Nginx-2.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_156.png
+![imeg](https://github.com/semioshkoan/Nginx-2.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_156.png)
 
 ---
 
@@ -26,5 +26,7 @@ https://github.com/semioshkoan/Nginx-2.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%
 ### Решение 2
 
 [Конфигурационный файл](haproxy1.cfg)
+
+![imeg](https://github.com/semioshkoan/Nginx-2.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_157.png)
 
 ---
